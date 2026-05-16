@@ -1,0 +1,29 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Belajar NestJS untuk Pemula",
+            "description": "Belajar NestJS untuk Pemula"
+        },
+        {
+            "id": "2",
+            "title": "Memahami Authentication dengan JWT",
+            "description": "Belajar NestJS untuk Pemula"
+        },
+        {
+            "id": "3",
+            "title": "Optimasi Query di PostgreSQL",
+            "description": "Belajar NestJS untuk Pemula"
+        },
+        {
+            "id": "4",
+            "title": "Menggunakan Redis untuk Caching",
+            "description": "Belajar NestJS untuk Pemula"
+        },
+        {
+            "id": "5",
+            "title": "Mengenal Design Pattern Behavioral",
+            "description": "Belajar NestJS untuk Pemula"
+        }
+    ]
+}
