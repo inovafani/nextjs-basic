@@ -1,0 +1,13 @@
+node_modules/
+app/node_modules/
+.next/
+app/.next/
+out/
+app/out/
+.env*
+app/.env*
+.vercel/
+app/.vercel/
+*.tsbuildinfo
+next-env.d.ts
+app/next-env.d.ts
